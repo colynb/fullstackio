@@ -76,7 +76,7 @@ h2 {
 .header {
   color: #fff;
   height: 100vh;
-  background-image: linear-gradient(rgba(30, 46, 10, 0.65), rgba(30, 46, 10, 0.65)), url("img/helloquence-61189.jpg");
+  background-image: linear-gradient(rgba(30, 46, 10, 0.65), rgba(30, 46, 10, 0.65)), url("../img/helloquence-61189.jpg");
   background-position: 50%;
   background-size: cover;
   text-shadow: 1px 1px 1px #000;
